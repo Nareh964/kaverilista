@@ -1,1 +1,20 @@
+body{
+    max-width: 800px;
+    max-height: 680px;
+    
+}
 
+main {
+    width: 109vh;
+    height:80px;
+    font-family: 'Times New Roman';
+    font-size:1.2em;
+    
+}
+hr {
+    border-color: black;
+    margin: 1px solid;
+}
+header{
+    text-align: left;
+}
